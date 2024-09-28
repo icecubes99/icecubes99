@@ -8,7 +8,7 @@
 ## 🛠 Skills
 - Programming Languages: Javascript, Python, C++
 - Frameworks & Libraries: React, Next.js, Vite
-- Tools & Technologies: Node.js, Prisma, Figma, Github, 
+- Tools & Technologies: Node.js, Prisma, Figma, Github
 
 ## 📊 GitHub Stats:
 <div align="center">
