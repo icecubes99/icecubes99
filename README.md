@@ -5,9 +5,9 @@
 
   # Hi there, I'm Emman! 👋
 
-Programming Languages: Java/Typescript, Python, C++, Java
-Frameworks & Libraries: React, Next.js, Vite
-Tools & Technologies: Node.js, Prisma, Figma, Github
+Programming Languages: Java/Typescript, Python, C++, Java <br />
+Frameworks & Libraries: React, Next.js, Vite <br />
+Tools & Technologies: Node.js, Prisma, Figma, Github <br />
 
   ---
 
