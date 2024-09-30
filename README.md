@@ -5,11 +5,11 @@
 
   # Hi there, I'm Emman! 👋
 
-  ## 🛠 Skills
-    Programming Languages: Javascript, Python, C++
-    Frameworks & Libraries: React, Next.js, Vite
-    Tools & Technologies: Node.js, Prisma, Figma, Github
+Programming Languages: Java/Typescript, Python, C++, Java
+Frameworks & Libraries: React, Next.js, Vite
+Tools & Technologies: Node.js, Prisma, Figma, Github
 
+  ---
 
   ![](https://github-readme-streak-stats.herokuapp.com/?user=icecubes99&theme=dark&hide_border=false)
 
